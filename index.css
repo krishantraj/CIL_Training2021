@@ -1,0 +1,22 @@
+*{
+  margin:auto;
+  padding: 0%;
+  
+  
+}
+
+
+h1{
+  align-items: center;
+}
+a{
+  
+}
+form{
+align-items: center;
+border: 2px solid;
+border-radius: 5px;
+width: 90%;
+padding: 20px;
+margin-top: 10px;
+}
